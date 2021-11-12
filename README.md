@@ -7,6 +7,6 @@ Practicing DatScy
 
 What if the queen was all alone on the chess board, how quickly could she get across the board randomly taking one step?
 
-Below is some code visualizing the different possible movements in a randomized order.
+Included are some code in Python and C++, visualizing the different possible movements in a randomized order.
 
 Full post at Medium (Practicing DatScy): https://medium.com/@j622amilah/
